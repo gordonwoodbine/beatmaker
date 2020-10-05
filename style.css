@@ -105,6 +105,11 @@ svg {
   transition: all 0.5s ease;
   border-radius: 0.5rem;
   box-shadow: 4px 4px 10px #1e1f20, -4px -4px 10px #404244;
+  transition: transform 0.5s ease;
+}
+
+.controls button:hover {
+  transform: scale(1.1);
 }
 
 .controls h1 {
@@ -140,6 +145,11 @@ select {
   margin-top: 3rem;
   border-radius: 0.5rem;
   box-shadow: 4px 4px 10px #1e1f20, -4px -4px 10px #404244;
+  transition: transform 0.5s ease;
+}
+
+.play:hover {
+  transform: scale(1.1);
 }
 
 @keyframes playTrack {

@@ -1,6 +1,6 @@
-#Beatmaker Project
+# Beatmaker Project
 
-##Still to do:
+## Still to do:
 
 - Make the mute buttons work
 - Add a tempo slider
